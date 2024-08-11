@@ -1,6 +1,6 @@
 [![MasterHead](https://www.vecteezy.com/video/24186673-coding-programming-web-development-modern-design-concept)]
 # Hi, I'm Divyakeerthan 👋
-<img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="180" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 Welcome to my GitHub profile! I'm a passionate Data Scientist and Fullstack Developer with a strong background in Python Fullstack Development and UI/UX Design. I love designing and developing digital solutions that are both functional and visually appealing.
 
